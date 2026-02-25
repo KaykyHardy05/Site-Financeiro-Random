@@ -12,6 +12,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 17px 0 13px;
+    border-radius: 0 0 10px 10px ;
 }
 
 #FOTO_PERFIL{
@@ -19,6 +20,9 @@ body{
     border:5px solid rgb(12, 17, 34);
     border-radius: 100%;
 }
-nav ul{
+.ul1{
+    padding: 0 0 0 10px;
+}
+.ul2{
     padding: 0 10px 0 0;
 }
