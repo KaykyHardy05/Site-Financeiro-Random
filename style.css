@@ -21,9 +21,10 @@ body{
 .Text{
     color: #f0f8ff;
 }
-
+/*
 .User_Name {
-    /*margin: 28px 0 0 0;*/
+    margin: 28px 0 0 0;
     display:flex;
     justify-content:space-between;
 }
+*/
