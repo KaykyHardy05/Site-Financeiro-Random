@@ -20,6 +20,13 @@ body{
     border:5px solid rgb(12, 17, 34);
     border-radius: 100%;
 }
+
+#MAIS_ICON{
+    width: 50px;
+    border:5px solid rgb(12, 17, 34);
+    border-radius: 100%;
+    filter: invert(100%);
+}
 .ul1{
     padding: 0 0 0 10px;
 }
